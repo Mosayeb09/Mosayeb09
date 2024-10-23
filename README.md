@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## I am Mosayeb Hossain
-#### I am a dedicated web developer passionate about crafting seamless and visually stunning user experiences. Proficient in HTML, CSS, JavaScript, React and I specialize in transforming design concepts into responsive and interactive websites. Committed to staying current with industry trends.
+#### I am a dedicated web developer passionate about crafting seamless and visually stunning user experiences. Proficient in HTML, CSS, JavaScript, React ,Next  and I specialize in transforming design concepts into responsive and interactive websites. Committed to staying current with industry trends.
 
 ### 📑 Skills :
 - Expertise: HTML5 | CSS3 | Tailwind CSS | Daisy UI
-- Comfortable: React JS | Javascript |ES6
+- Comfortable: React JS | Next JS |Javascript |ES6
 - Familiar: Next JS | Express JS | MongoDB | JWT | API
 - Tools: Github | Firebase | Netlify | Vercel | VS Code
 - Interpersonal Skills: Communication | Team Work | Leadership
